@@ -22,3 +22,6 @@ React
 Tailwind CSS
 Three.js
 Vite
+
+types/three 
+react-three/fiber
